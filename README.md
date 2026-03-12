@@ -27,8 +27,6 @@ This repository contains a comprehensive Power BI dashboard designed to analyze 
 
 ## 📸 Dashboard Snapshot
 
-_(Note to author: It is highly recommended to take a screenshot of your finished dashboard and upload it to your repository. Add the image file to your repo and link it below.)_
-
 ![Dashboard Screenshot](ecommerce.png)
 
 ## 💡 Key Insights (Example)
@@ -44,3 +42,4 @@ Feedback and suggestions are welcome! Feel free to open an issue or submit a pul
 ## 📄 License
 
 [Insert License Type, e.g., MIT License] - feel free to use and modify for your own learning!
+
