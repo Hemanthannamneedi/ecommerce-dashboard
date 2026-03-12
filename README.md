@@ -28,10 +28,6 @@ Under the hood, this project is structured with a robust `DataModel` and a custo
 3. **Open the File:** Double-click the `.pbix` file to open the report in Power BI Desktop.
 4. **Explore:** Use the built-in slicers and click on different chart elements to interactively cross-filter the data.
 
-## 📸 Dashboard Snapshot
-
-![Student Performance Dashboard Screenshot](student performance.png)
-
 ## 💡 Key Insights (Example)
 
 - **[Insight 1]:** e.g., "Math scores showed a 12% improvement in the spring semester following the introduction of the new tutoring program."
@@ -49,3 +45,4 @@ Feedback and suggestions are always welcome! Feel free to open an issue or submi
 ---
 
 Would you like me to help you draft a specific "Key Findings" section based on your actual data, or help you format some of the DAX formulas you used to include in the README?
+
